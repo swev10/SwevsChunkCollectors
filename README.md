@@ -9,3 +9,5 @@ Live Holograms: Displays real-time statistics like money earned and remaining ch
 Optimized & Scalable: Built with performance in mind, using asynchronous tasks and supporting MySQL/Redis for cross-server data syncing.
 
 (NOT FULLY PUBLISHED, THERE MAY BE BUGS!)
+
+https://youtu.be/3WjNtWVVxFQ
